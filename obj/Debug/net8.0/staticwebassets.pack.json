@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TEMP_UNITYSTATION_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TEMP_UNITYSTATION_API.props",
+      "PackagePath": "build\\TEMP_UNITYSTATION_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TEMP_UNITYSTATION_API.props",
+      "PackagePath": "buildMultiTargeting\\TEMP_UNITYSTATION_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TEMP_UNITYSTATION_API.props",
+      "PackagePath": "buildTransitive\\TEMP_UNITYSTATION_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

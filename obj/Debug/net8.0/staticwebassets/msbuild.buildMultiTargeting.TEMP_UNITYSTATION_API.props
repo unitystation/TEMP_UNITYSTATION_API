@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TEMP_UNITYSTATION_API.props" />
+</Project>

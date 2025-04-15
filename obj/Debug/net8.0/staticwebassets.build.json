@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "1crZoz5uwTaFA/e+hidW2IbiP/YPk4kTKu5yNvvIlAQ=",
+  "Source": "TEMP_UNITYSTATION_API",
+  "BasePath": "_content/TEMP_UNITYSTATION_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TEMP_UNITYSTATION_API\\wwwroot",
+      "Source": "TEMP_UNITYSTATION_API",
+      "ContentRoot": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\",
+      "BasePath": "_content/TEMP_UNITYSTATION_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\css\\site.css",
+      "SourceId": "TEMP_UNITYSTATION_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\",
+      "BasePath": "_content/TEMP_UNITYSTATION_API",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\favicon.ico",
+      "SourceId": "TEMP_UNITYSTATION_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\",
+      "BasePath": "_content/TEMP_UNITYSTATION_API",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\js\\site.js",
+      "SourceId": "TEMP_UNITYSTATION_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "Q:\\Fast programmes\\Unity station_unity station\\TEMP_UNITYSTATION_API\\wwwroot\\",
+      "BasePath": "_content/TEMP_UNITYSTATION_API",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

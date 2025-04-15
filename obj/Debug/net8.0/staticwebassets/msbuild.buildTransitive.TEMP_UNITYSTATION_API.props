@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TEMP_UNITYSTATION_API.props" />
+</Project>
