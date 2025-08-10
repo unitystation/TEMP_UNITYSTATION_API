@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TEMP_UNITYSTATION_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f227b45e632acc86108bc5f980d93585e9872d6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0386f1c192c10627c8c342d954782780de845f09")]
 [assembly: System.Reflection.AssemblyProductAttribute("TEMP_UNITYSTATION_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TEMP_UNITYSTATION_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

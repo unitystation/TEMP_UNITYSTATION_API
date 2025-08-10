@@ -30,4 +30,6 @@ public class ServerStatus
     public int fps;
     public string SerializedMetaJson;
     public string GoodFileVersion;
+    public string ServerPublicKey;
+    public string ServerConnectionPublicKey;
 }
