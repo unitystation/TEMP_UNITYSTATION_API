@@ -13,7 +13,7 @@ public class ServerListSingleton
     {
         get
         {
-            if (string.IsNullOrEmpty(activeServersData) || (DateTime.UtcNow- ActiveServers.CashDateTime).Seconds > 20)
+            if (string.IsNullOrEmpty(activeServersData) || (DateTime.UtcNow- ActiveServers.CashDateTime).TotalSeconds > 20)
             {
                 SortAndGenerate();
             }
@@ -36,7 +36,7 @@ public class ServerListSingleton
     {
         foreach (var server in ActiveServers.servers)
         {
-            if ((DateTime.UtcNow - server.StatusOn).Seconds >= 70)
+            if ((DateTime.UtcNow - server.StatusOn).TotalSeconds >= 70)
             {
                 Toremove.Add(server);
             }
